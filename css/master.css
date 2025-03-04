@@ -1,0 +1,24 @@
+a {
+    color: #C19DE0;
+    text-decoration: none;
+
+}
+
+a.hover {
+    color: #6E4E8A;
+    text-decoration: none;
+
+}
+
+body {
+    background-color: #EEDEFC;
+    color: #2F0B4F;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.image-row {
+    display: flex;
+    justify-content: space-between; /*learned from shecodes.io*/
+    
+}
